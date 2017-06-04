@@ -1,7 +1,7 @@
 baseurl = "https://nagarjunavarma.com"
 title = "Nagarjuna Arjun Varma"
 copyright = "&copy; 2016 Nagarjuna (Arjun) Varma"
-theme = "academic"
+theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
@@ -184,5 +184,3 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
-
-publishDir = "docs"
