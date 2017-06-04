@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Nagarjuna Arjun Varma</title>
-    <link>https://www.nagarjunavarma.com/categories/</link>
+    <link>https://PowerFighter.github.io/Project-website/categories/</link>
     <description>Recent content in Categories on Nagarjuna Arjun Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Nagarjuna (Arjun) Varma</copyright>
-    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    <atom:link href="/Project-website/categories/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

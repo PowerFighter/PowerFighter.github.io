@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prototypes on Nagarjuna Arjun Varma</title>
-    <link>https://www.nagarjunavarma.com/tags/prototypes/</link>
+    <link>https://PowerFighter.github.io/Project-website/tags/prototypes/</link>
     <description>Recent content in Prototypes on Nagarjuna Arjun Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Nagarjuna (Arjun) Varma</copyright>
     <lastBuildDate>Sun, 04 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/prototypes/" rel="self" type="application/rss+xml" />
+    <atom:link href="/Project-website/tags/prototypes/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GestBall/GestLib</title>
-      <link>https://www.nagarjunavarma.com/project/gestball/</link>
+      <link>https://PowerFighter.github.io/Project-website/project/gestball/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nagarjunavarma.com/project/gestball/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/project/gestball/</guid>
       <description>&lt;p&gt;GestLib was a OpenCV based implementation of hand tracking with pose recognition.&lt;/p&gt;
 
 &lt;p&gt;To test the GestLib we also made a game called GestBall, where certain poses like 1-Finger,2-Finger triggered certain actions on the player character which was a bouncing ball.
 Rendering was done using a spriterenderer on the DirectX API.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.nagarjunavarma.com/img/gestball1.jpg&#34; alt=&#34;GestLib&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://PowerFighter.github.io/Project-website/img/gestball1.jpg&#34; alt=&#34;GestLib&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Building Virtual Worlds</title>
-      <link>https://www.nagarjunavarma.com/project/bvw/</link>
+      <link>https://PowerFighter.github.io/Project-website/project/bvw/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nagarjunavarma.com/project/bvw/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/project/bvw/</guid>
       <description>&lt;p&gt;Building Virtual Worlds was the course i took in my first semester at Carnegie Mellon. Here we formed teams and made prototypes (Games,interactive experiences) over a span of two weeks.&lt;/p&gt;
 
 &lt;p&gt;The following are the prototypes we created throughout the entire semester.
@@ -98,10 +98,10 @@ It was a lot of fun and it became quite tough to hit the notes towards the end r
     
     <item>
       <title>Playstation Blacklight</title>
-      <link>https://www.nagarjunavarma.com/project/psmvita/</link>
+      <link>https://PowerFighter.github.io/Project-website/project/psmvita/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nagarjunavarma.com/project/psmvita/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/project/psmvita/</guid>
       <description>&lt;p&gt;PlayStation BlackLight was a student project at Carnegie Mellon’s Entertainment Technology Center during the Fall semester of 2012. I was part of the 7 member team who were tasked with creating 4 prototypes for the Vita/PC platforms.
 The prototypes we created were :&lt;/p&gt;
 

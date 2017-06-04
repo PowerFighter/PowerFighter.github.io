@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Nagarjuna Arjun Varma</title>
-    <link>https://www.nagarjunavarma.com/home/</link>
+    <link>https://PowerFighter.github.io/Project-website/home/</link>
     <description>Recent content in Homes on Nagarjuna Arjun Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Nagarjuna (Arjun) Varma</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <atom:link href="/Project-website/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
