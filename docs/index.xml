@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nagarjuna Arjun Varma on Nagarjuna Arjun Varma</title>
-    <link>https://nagarjunavarma.com/</link>
+    <link>https://PowerFighter.github.io/Project-website/</link>
     <description>Recent content in Nagarjuna Arjun Varma on Nagarjuna Arjun Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Nagarjuna (Arjun) Varma</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/Project-website/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GestBall/GestLib</title>
-      <link>https://nagarjunavarma.com/project/gestball/</link>
+      <link>https://PowerFighter.github.io/Project-website/project/gestball/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/project/gestball/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/project/gestball/</guid>
       <description>&lt;p&gt;GestLib was a OpenCV based implementation of hand tracking with pose recognition.&lt;/p&gt;
 
 &lt;p&gt;To test the GestLib we also made a game called GestBall, where certain poses like 1-Finger,2-Finger triggered certain actions on the player character which was a bouncing ball.
 Rendering was done using a spriterenderer on the DirectX API.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://nagarjunavarma.com/img/gestball1.jpg&#34; alt=&#34;GestLib&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://PowerFighter.github.io/Project-website/img/gestball1.jpg&#34; alt=&#34;GestLib&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Building Virtual Worlds</title>
-      <link>https://nagarjunavarma.com/project/bvw/</link>
+      <link>https://PowerFighter.github.io/Project-website/project/bvw/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/project/bvw/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/project/bvw/</guid>
       <description>&lt;p&gt;Building Virtual Worlds was the course i took in my first semester at Carnegie Mellon. Here we formed teams and made prototypes (Games,interactive experiences) over a span of two weeks.&lt;/p&gt;
 
 &lt;p&gt;The following are the prototypes we created throughout the entire semester.
@@ -98,10 +98,10 @@ It was a lot of fun and it became quite tough to hit the notes towards the end r
     
     <item>
       <title>Entwined™</title>
-      <link>https://nagarjunavarma.com/project/entwined/</link>
+      <link>https://PowerFighter.github.io/Project-website/project/entwined/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/project/entwined/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/project/entwined/</guid>
       <description>&lt;p&gt;Entwined is a game about two souls, a bird and a fish, who are in love but can’t be together. Once united, the two souls will transform into a magnificent soaring dragon. It is available on PS4, PS3, Vita, iOS and Android.&lt;/p&gt;
 
 &lt;p&gt;In this game the player controls two characters at the same time. The bird is controlled through the right stick and the fish through the left stick.
@@ -133,10 +133,10 @@ We also released a mobile version featuring a new multiplier system. This was ca
     
     <item>
       <title>Playstation Blacklight</title>
-      <link>https://nagarjunavarma.com/project/psmvita/</link>
+      <link>https://PowerFighter.github.io/Project-website/project/psmvita/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/project/psmvita/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/project/psmvita/</guid>
       <description>&lt;p&gt;PlayStation BlackLight was a student project at Carnegie Mellon’s Entertainment Technology Center during the Fall semester of 2012. I was part of the 7 member team who were tasked with creating 4 prototypes for the Vita/PC platforms.
 The prototypes we created were :&lt;/p&gt;
 
@@ -193,10 +193,10 @@ The story is set in a post apocalyptic world where one man survived.He finds out
     
     <item>
       <title>Strike Fortress</title>
-      <link>https://nagarjunavarma.com/project/strikefortress/</link>
+      <link>https://PowerFighter.github.io/Project-website/project/strikefortress/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/project/strikefortress/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/project/strikefortress/</guid>
       <description>&lt;p&gt;Strike Fortress was a Webgl game (required no plugins) which was showcased at Google IO. I was part of a team from Carnegie Mellon ETC at EA OCCO.
 We were tasked with making a complete two player, MOBA style game. The players controlled Mechs and AI units (tanks,gunships and many more). The main objective was to capture as many turrets along the way as possible and then destroy the enemy base.&lt;/p&gt;
 
@@ -214,10 +214,10 @@ We were tasked with making a complete two player, MOBA style game. The players c
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://nagarjunavarma.com/post/getting-started/</link>
+      <link>https://PowerFighter.github.io/Project-website/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/post/getting-started/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
@@ -228,7 +228,7 @@ We were tasked with making a complete two player, MOBA style game. The players c
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://nagarjunavarma.com/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://PowerFighter.github.io/Project-website/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -292,15 +292,15 @@ cd my_website
 
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://nagarjunavarma.com/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://PowerFighter.github.io/Project-website/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://nagarjunavarma.com/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://PowerFighter.github.io/Project-website/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://nagarjunavarma.com/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://PowerFighter.github.io/Project-website/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;customization-upgrading&#34;&gt;Customization &amp;amp; Upgrading&lt;/h3&gt;
 
@@ -404,10 +404,10 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>https://nagarjunavarma.com/post/widgets/</link>
+      <link>https://PowerFighter.github.io/Project-website/post/widgets/</link>
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/post/widgets/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/post/widgets/</guid>
       <description>
 
 &lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
@@ -470,15 +470,15 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>https://nagarjunavarma.com/post/managing-content/</link>
+      <link>https://PowerFighter.github.io/Project-website/post/managing-content/</link>
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://nagarjunavarma.com/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://PowerFighter.github.io/Project-website/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://PowerFighter.github.io/Project-website/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://nagarjunavarma.com/post/writing-markdown-latex/#code-highlighting&#34; target=&#34;_blank&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://PowerFighter.github.io/Project-website/post/writing-markdown-latex/#code-highlighting&#34; target=&#34;_blank&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
 
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 
@@ -617,10 +617,10 @@ Below is an automatically generated list of all my blog posts!
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>https://nagarjunavarma.com/post/writing-markdown-latex/</link>
+      <link>https://PowerFighter.github.io/Project-website/post/writing-markdown-latex/</link>
       <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/post/writing-markdown-latex/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;
 
 &lt;h2 id=&#34;sub-headings&#34;&gt;Sub-headings&lt;/h2&gt;
@@ -823,7 +823,7 @@ print(&amp;quot;You entered: {}&amp;quot;.format(input_string_var))
 
 &lt;p&gt;If the &lt;code&gt;highlight_languages&lt;/code&gt; option is set, then the corresponding javascript files will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available languages, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;ldquo;languages&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://nagarjunavarma.com/post/getting-started/#third-party-and-local-scripts-js&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://PowerFighter.github.io/Project-website/post/getting-started/#third-party-and-local-scripts-js&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&#34;option-highlight-style&#34;&gt;Option &lt;code&gt;highlight_style&lt;/code&gt;&lt;/h4&gt;
 
@@ -969,13 +969,13 @@ Here&#39;s some important information...
     
     <item>
       <title>Migrate from Jekyll to Hugo</title>
-      <link>https://nagarjunavarma.com/post/migrate-from-jekyll/</link>
+      <link>https://PowerFighter.github.io/Project-website/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/post/migrate-from-jekyll/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/post/migrate-from-jekyll/</guid>
       <description>
 
-&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://nagarjunavarma.com/post/getting-started/&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://PowerFighter.github.io/Project-website/post/getting-started/&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 

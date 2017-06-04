@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on Nagarjuna Arjun Varma</title>
-    <link>https://nagarjunavarma.com/tags/games/</link>
+    <link>https://PowerFighter.github.io/Project-website/tags/games/</link>
     <description>Recent content in Games on Nagarjuna Arjun Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Nagarjuna (Arjun) Varma</copyright>
     <lastBuildDate>Sat, 03 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/games/" rel="self" type="application/rss+xml" />
+    <atom:link href="/Project-website/tags/games/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Entwined™</title>
-      <link>https://nagarjunavarma.com/project/entwined/</link>
+      <link>https://PowerFighter.github.io/Project-website/project/entwined/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/project/entwined/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/project/entwined/</guid>
       <description>&lt;p&gt;Entwined is a game about two souls, a bird and a fish, who are in love but can’t be together. Once united, the two souls will transform into a magnificent soaring dragon. It is available on PS4, PS3, Vita, iOS and Android.&lt;/p&gt;
 
 &lt;p&gt;In this game the player controls two characters at the same time. The bird is controlled through the right stick and the fish through the left stick.
@@ -47,10 +47,10 @@ We also released a mobile version featuring a new multiplier system. This was ca
     
     <item>
       <title>Strike Fortress</title>
-      <link>https://nagarjunavarma.com/project/strikefortress/</link>
+      <link>https://PowerFighter.github.io/Project-website/project/strikefortress/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nagarjunavarma.com/project/strikefortress/</guid>
+      <guid>https://PowerFighter.github.io/Project-website/project/strikefortress/</guid>
       <description>&lt;p&gt;Strike Fortress was a Webgl game (required no plugins) which was showcased at Google IO. I was part of a team from Carnegie Mellon ETC at EA OCCO.
 We were tasked with making a complete two player, MOBA style game. The players controlled Mechs and AI units (tanks,gunships and many more). The main objective was to capture as many turrets along the way as possible and then destroy the enemy base.&lt;/p&gt;
 
