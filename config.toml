@@ -4,6 +4,7 @@ copyright = "&copy; 2016 Nagarjuna (Arjun) Varma"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+publishDir ="docs"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Nagarjuna Arjun Varma</title>
+    <link>https://nagarjunavarma.com/tags/games/</link>
+    <description>Recent content in Games on Nagarjuna Arjun Varma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Nagarjuna (Arjun) Varma</copyright>
+    <lastBuildDate>Sat, 03 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/games/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Entwined™</title>
+      <link>https://nagarjunavarma.com/project/entwined/</link>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nagarjunavarma.com/project/entwined/</guid>
+      <description>&lt;p&gt;Entwined is a game about two souls, a bird and a fish, who are in love but can’t be together. Once united, the two souls will transform into a magnificent soaring dragon. It is available on PS4, PS3, Vita, iOS and Android.&lt;/p&gt;
+
+&lt;p&gt;In this game the player controls two characters at the same time. The bird is controlled through the right stick and the fish through the left stick.
+Once you complete a level, the bird and the fish fuse to become a dragon, which can be controlled using both sticks.&lt;/p&gt;
+
+&lt;p&gt;Heres are some gameplay videos of the gameplay :&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Nv5SEynpCWQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/FYXpnSfk6zs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br&gt;&lt;br&gt;
+We also released a mobile version featuring a new multiplier system. This was called Entwined Challenge. It was released on both Android and IOS.
+&lt;br&gt;&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/TEWnAt1XQws&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strike Fortress</title>
+      <link>https://nagarjunavarma.com/project/strikefortress/</link>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nagarjunavarma.com/project/strikefortress/</guid>
+      <description>&lt;p&gt;Strike Fortress was a Webgl game (required no plugins) which was showcased at Google IO. I was part of a team from Carnegie Mellon ETC at EA OCCO.
+We were tasked with making a complete two player, MOBA style game. The players controlled Mechs and AI units (tanks,gunships and many more). The main objective was to capture as many turrets along the way as possible and then destroy the enemy base.&lt;/p&gt;
+
+&lt;p&gt;There was also a mobile component where in a third player could drop missiles or supply drops using a mobile device.&lt;/p&gt;
+
+&lt;p&gt;My main tasks included coding up the Mech character movement, Weapon systems, sound integration, Turret capture logic etc.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/awsiJ9jxHIY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
