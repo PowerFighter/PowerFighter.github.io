@@ -1,4 +1,4 @@
-baseurl = "http://www.nagarjunavarma.com"
+baseurl = "http://www.nagarjunavarma.com/"
 title = "Nagarjuna Arjun Varma"
 copyright = "&copy; 2016 Nagarjuna (Arjun) Varma"
 theme = "hugo-academic"
