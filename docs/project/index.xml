@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Nagarjuna Arjun Varma</title>
-    <link>https://PowerFighter.github.io/Project-website/project/</link>
+    <link>http://www.nagarjunavarma.com/project/</link>
     <description>Recent content in Projects on Nagarjuna Arjun Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Nagarjuna (Arjun) Varma</copyright>
     <lastBuildDate>Sun, 04 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/Project-website/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GestBall/GestLib</title>
-      <link>https://PowerFighter.github.io/Project-website/project/gestball/</link>
+      <link>http://www.nagarjunavarma.com/project/gestball/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://PowerFighter.github.io/Project-website/project/gestball/</guid>
+      <guid>http://www.nagarjunavarma.com/project/gestball/</guid>
       <description>&lt;p&gt;GestLib was a OpenCV based implementation of hand tracking with pose recognition.&lt;/p&gt;
 
 &lt;p&gt;To test the GestLib we also made a game called GestBall, where certain poses like 1-Finger,2-Finger triggered certain actions on the player character which was a bouncing ball.
 Rendering was done using a spriterenderer on the DirectX API.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://PowerFighter.github.io/Project-website/img/gestball1.jpg&#34; alt=&#34;GestLib&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.nagarjunavarma.com/img/gestball1.jpg&#34; alt=&#34;GestLib&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Building Virtual Worlds</title>
-      <link>https://PowerFighter.github.io/Project-website/project/bvw/</link>
+      <link>http://www.nagarjunavarma.com/project/bvw/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://PowerFighter.github.io/Project-website/project/bvw/</guid>
+      <guid>http://www.nagarjunavarma.com/project/bvw/</guid>
       <description>&lt;p&gt;Building Virtual Worlds was the course i took in my first semester at Carnegie Mellon. Here we formed teams and made prototypes (Games,interactive experiences) over a span of two weeks.&lt;/p&gt;
 
 &lt;p&gt;The following are the prototypes we created throughout the entire semester.
@@ -98,10 +98,10 @@ It was a lot of fun and it became quite tough to hit the notes towards the end r
     
     <item>
       <title>Entwined™</title>
-      <link>https://PowerFighter.github.io/Project-website/project/entwined/</link>
+      <link>http://www.nagarjunavarma.com/project/entwined/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://PowerFighter.github.io/Project-website/project/entwined/</guid>
+      <guid>http://www.nagarjunavarma.com/project/entwined/</guid>
       <description>&lt;p&gt;Entwined is a game about two souls, a bird and a fish, who are in love but can’t be together. Once united, the two souls will transform into a magnificent soaring dragon. It is available on PS4, PS3, Vita, iOS and Android.&lt;/p&gt;
 
 &lt;p&gt;In this game the player controls two characters at the same time. The bird is controlled through the right stick and the fish through the left stick.
@@ -133,10 +133,10 @@ We also released a mobile version featuring a new multiplier system. This was ca
     
     <item>
       <title>Playstation Blacklight</title>
-      <link>https://PowerFighter.github.io/Project-website/project/psmvita/</link>
+      <link>http://www.nagarjunavarma.com/project/psmvita/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://PowerFighter.github.io/Project-website/project/psmvita/</guid>
+      <guid>http://www.nagarjunavarma.com/project/psmvita/</guid>
       <description>&lt;p&gt;PlayStation BlackLight was a student project at Carnegie Mellon’s Entertainment Technology Center during the Fall semester of 2012. I was part of the 7 member team who were tasked with creating 4 prototypes for the Vita/PC platforms.
 The prototypes we created were :&lt;/p&gt;
 
@@ -193,10 +193,10 @@ The story is set in a post apocalyptic world where one man survived.He finds out
     
     <item>
       <title>Strike Fortress</title>
-      <link>https://PowerFighter.github.io/Project-website/project/strikefortress/</link>
+      <link>http://www.nagarjunavarma.com/project/strikefortress/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://PowerFighter.github.io/Project-website/project/strikefortress/</guid>
+      <guid>http://www.nagarjunavarma.com/project/strikefortress/</guid>
       <description>&lt;p&gt;Strike Fortress was a Webgl game (required no plugins) which was showcased at Google IO. I was part of a team from Carnegie Mellon ETC at EA OCCO.
 We were tasked with making a complete two player, MOBA style game. The players controlled Mechs and AI units (tanks,gunships and many more). The main objective was to capture as many turrets along the way as possible and then destroy the enemy base.&lt;/p&gt;
 

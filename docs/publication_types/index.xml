@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Nagarjuna Arjun Varma</title>
-    <link>https://PowerFighter.github.io/Project-website/publication_types/</link>
+    <link>http://www.nagarjunavarma.com/publication_types/</link>
     <description>Recent content in Publication_types on Nagarjuna Arjun Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Nagarjuna (Arjun) Varma</copyright>
-    <atom:link href="/Project-website/publication_types/" rel="self" type="application/rss+xml" />
+    <atom:link href="/publication_types/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
