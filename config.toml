@@ -1,6 +1,6 @@
 baseurl = "http://www.nagarjunavarma.com/"
-title = "Nagarjuna Arjun Varma"
-copyright = "&copy; 2016 Nagarjuna (Arjun) Varma"
+title = "Nagarjuna \"Arjun\" Varma"
+copyright = "&copy; 2016 Nagarjuna 'Arjun' Varma"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,14 +20,14 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Nagarjuna Arjun Varma"
+  name = "Nagarjuna \"Arjun\" Varma"
   role = "Programmer"
   #organization = "Stanford University"
   organization_url = ""
   avatar = "portrait.jpg"
   email = "nagarjuna.varma@gmail.com"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "412 944 4136"
+ #phone = "412 944 4136"
   #skype = "echo123"
   telegram = ""
 

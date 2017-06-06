@@ -1,27 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prototypes on Nagarjuna Arjun Varma</title>
+    <title>Prototypes on Nagarjuna &#34;Arjun&#34; Varma</title>
     <link>http://www.nagarjunavarma.com/tags/prototypes/</link>
-    <description>Recent content in Prototypes on Nagarjuna Arjun Varma</description>
+    <description>Recent content in Prototypes on Nagarjuna &#34;Arjun&#34; Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Nagarjuna (Arjun) Varma</copyright>
+    <copyright>&amp;copy; 2016 Nagarjuna &#39;Arjun&#39; Varma</copyright>
     <lastBuildDate>Sun, 04 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/prototypes/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>GestBall/GestLib</title>
-      <link>http://www.nagarjunavarma.com/project/gestball/</link>
+      <title>Playstation Blacklight</title>
+      <link>http://www.nagarjunavarma.com/project/psmvita/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.nagarjunavarma.com/project/gestball/</guid>
-      <description>&lt;p&gt;GestLib was a OpenCV based implementation of hand tracking with pose recognition.&lt;/p&gt;
+      <guid>http://www.nagarjunavarma.com/project/psmvita/</guid>
+      <description>&lt;p&gt;PlayStation BlackLight was a student project at Carnegie Mellon’s Entertainment Technology Center during the Fall semester of 2012. I was part of the 7 member team who were tasked with creating 4 prototypes for the Vita/PC platforms.
+The prototypes we created were :&lt;/p&gt;
 
-&lt;p&gt;To test the GestLib we also made a game called GestBall, where certain poses like 1-Finger,2-Finger triggered certain actions on the player character which was a bouncing ball.
-Rendering was done using a spriterenderer on the DirectX API.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pillow And Girl&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.nagarjunavarma.com/img/gestball1.jpg&#34; alt=&#34;GestLib&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;This prototype was done on the Playstation Vita using the Playstation mobile library.
+It tells the story of a girl dreaming and her pillow is her savior/guide in the dream sequence.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/bWnJf8mbhCw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thief And Cop&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This prototype was also on the Vita. It was a two player game, in which players take turns as a thief and a cop. The objective of the thief was to steal as many items as possible from the level. While the cop would try to stop the thief from stealing by identifying the stolen objects
+&lt;br&gt;&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/tGiwT1fjdes&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All You Can Buy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This prototype was on the Vita. It was a quick tap game where the player had to buy as much stuff as possible before the time runs out.
+He had special powers also like extending time or slowing time.
+This was an exploration of the free to play model. We had an ingame currency and that could be used to purchase extra powers, or more money to spend.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/8n6kYAT709w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/wJi8HbzpmUw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Forever Creative&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This prototype was on done using Unity for PC. We were given a music sequence and asked to create an interactive music video from it.
+The story is set in a post apocalyptic world where one man survived.He finds out that he is not alone and that there was another being giving hope for him  to live.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/KMRyouqidFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 </description>
     </item>
     
@@ -97,62 +142,33 @@ It was a lot of fun and it became quite tough to hit the notes towards the end r
     </item>
     
     <item>
-      <title>Playstation Blacklight</title>
-      <link>http://www.nagarjunavarma.com/project/psmvita/</link>
-      <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
+      <title>GestBall/GestLib</title>
+      <link>http://www.nagarjunavarma.com/project/gestball/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.nagarjunavarma.com/project/psmvita/</guid>
-      <description>&lt;p&gt;PlayStation BlackLight was a student project at Carnegie Mellon’s Entertainment Technology Center during the Fall semester of 2012. I was part of the 7 member team who were tasked with creating 4 prototypes for the Vita/PC platforms.
-The prototypes we created were :&lt;/p&gt;
+      <guid>http://www.nagarjunavarma.com/project/gestball/</guid>
+      <description>&lt;p&gt;GestLib was a OpenCV based implementation of hand tracking with pose recognition.We tested with a total of 4 poses.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Pillow And Girl&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To test the GestLib we also made a game called GestBall, where certain poses like 1-Finger,2-Finger triggered certain actions on the player character which was a bouncing ball.
+Rendering was done using a spriterenderer on the DirectX API.&lt;/p&gt;
 
-&lt;p&gt;This prototype was done on the Playstation Vita using the Playstation mobile library.
-It tells the story of a girl dreaming and her pillow is her savior/guide in the dream sequence.
+&lt;p&gt;Here are some screenshots from the project:&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/bWnJf8mbhCw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
+&lt;p&gt;Break-out game using GestLib. The player would use his hand as a paddle.
+&lt;img src=&#34;http://www.nagarjunavarma.com/img/gestball1.jpg&#34; alt=&#34;GestLib&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Thief And Cop&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GestBall uses gestures to control the ball.
+&lt;br&gt;
+* 1-Finger pose made the ball jump.
+&lt;br&gt;
+* Closed hand pose made the ball move.
+&lt;br&gt;
+* Open hand pose made the ball stop.&lt;/p&gt;
 
-&lt;p&gt;This prototype was also on the Vita. It was a two player game, in which players take turns as a thief and a cop. The objective of the thief was to steal as many items as possible from the level. While the cop would try to stop the thief from stealing by identifying the stolen objects
-&lt;br&gt;&lt;br&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/tGiwT1fjdes&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;All You Can Buy&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This prototype was on the Vita. It was a quick tap game where the player had to buy as much stuff as possible before the time runs out.
-He had special powers also like extending time or slowing time.
-This was an exploration of the free to play model. We had an ingame currency and that could be used to purchase extra powers, or more money to spend.&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/8n6kYAT709w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-&lt;br&gt;&lt;br&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/wJi8HbzpmUw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Forever Creative&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This prototype was on done using Unity for PC. We were given a music sequence and asked to create an interactive music video from it.
-The story is set in a post apocalyptic world where one man survived.He finds out that he is not alone and that there was another being giving hope for him  to live.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/KMRyouqidFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
+&lt;p&gt;The player had to use the gestures to evade the shrapenel.
+&lt;img src=&#34;http://www.nagarjunavarma.com/img/GestBall2.png&#34; alt=&#34;GestLib&#34; /&gt;
+&lt;img src=&#34;http://www.nagarjunavarma.com/img/GestBall3.png&#34; alt=&#34;GestLib&#34; /&gt;
+&lt;img src=&#34;http://www.nagarjunavarma.com/img/GestBall4.png&#34; alt=&#34;GestLib&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
