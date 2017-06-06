@@ -40,9 +40,9 @@ Hi, My name is Nagarjuna (short form "Arjun"). I am currently a Gameplay / AI pr
 
 #### How it all began:
 
-My craze for gaming began at the tender age of 10, ever since I got my hands on my first PC powered by a Pentium mmx chip. I started learning programming languages like LOGO,BASIC, JAVA, and C/ C++. My interest in computers led me to successfully complete my Bachelors in Computer Science and Technology.My final year project was making a game in which the player controls a ball using gestures.
+My craze for gaming began at the tender age of 10, ever since I got my hands on my first PC powered by a Pentium mmx chip. I started learning programming languages like LOGO,BASIC, JAVA, and C/ C++. My interest in computers led me to successfully complete my Bachelors in Computer Science and Technology. My final year project was a game in which the player controls the character using hand gestures.
 
-My passion in the field encouraged me to pursue my Masters in Entertainment technology at Carnegie Mellon University, Pittsburgh. I had the opportunity to learn a lot about prototyping in the **“Building Virtual Worlds”** class taught by Jesse Schell and MK Haley. I worked on a variety of platforms like the Kinect,Wii-mote, HMD, etc.
+My passion for game development encouraged me to pursue my Masters in Entertainment technology at Carnegie Mellon University, Pittsburgh. Here I had the opportunity to learn a lot about prototyping in the **“Building Virtual Worlds”** class taught by Jesse Schell and MK Haley. Throughout the course I worked on a variety of platforms like the Kinect,Wii-mote, HMD, etc.
 
 In my second semester, I worked on a project called **“Strike Fortress”** for Electronic Arts at Redwood Shores, CA. Strike fortress was a tower defense WebGL game written entirely in Javascript.
 
@@ -56,7 +56,7 @@ Soon after the co-op project, the Pixelopus Studio was formed by Sony Interact
 
 **Entwined** was a unique game which had a philosophical touch to the story. Combined with amazing visuals and music, it was a mesmerizing experience. It was released on PS4, PS3 and Vita. You can find more details about this in the projects section. We also released a mobile version called **"Entwined Challenge"**, which is currently available on the IOS and android app stores.
 
-To sum up, I love prototyping new gameplay concepts and making different types of Game AI. I am also interested in exploring non-game AI as well including Deep Learning and its applications.
+To sum up, I love prototyping new gameplay concepts and making different types of Game AI. I am also interested in exploring non-game AI aspects as well including Deep Learning and its applications.
 I also enjoy working with optimization process and I’m always in the pursuit of optimized code (both data structures and algorithms).
 
 Thank you for visiting my site, If you have any questions please feel free to contact me at nagarjuna.varma@gmail.com.
