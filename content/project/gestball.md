@@ -32,12 +32,12 @@ GestLib was a OpenCV based implementation of hand tracking with pose recognition
 To test the GestLib we also made a game called GestBall, where certain poses like 1-Finger,2-Finger triggered certain actions on the player character which was a bouncing ball.
 Rendering was done using a spriterenderer on the DirectX API.
 
-Here are some screenshots from the project:
-
-Break-out game using GestLib. The player would use his hand as a paddle.
+**Protoype 1 : Break-out game using GestLib. The player had to use his hand as a paddle.**
 ![GestLib](/img/gestball1.jpg)
 
-GestBall uses gestures to control the ball. 
+**Protoype 2 : GestBall**
+
+GestBall used the following gestures to control the ball. 
 <br>
 * 1-Finger pose made the ball jump.
 <br>
