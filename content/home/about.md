@@ -36,17 +36,17 @@ weight = 1
 
 # Biography
 
-Hi, My name is Nagarjuna (short form "Arjun"). I am currently a Gameplay / AI programmer at PixelOpus Studio , Sony Interactive Entertainment America. 
+Hi, My name is Nagarjuna (short form "Arjun"). I am currently a Gameplay / AI programmer at PixelOpus Studio, Sony Interactive Entertainment America. 
 
 #### How it all began:
 
 My craze for gaming began at the tender age of 10, ever since I got my hands on my first PC powered by a Pentium mmx chip. I started learning programming languages like LOGO,BASIC, JAVA, and C/ C++. My interest in computers led me to successfully complete my Bachelors in Computer Science and Technology. My final year project was a game in which the player controls the character using hand gestures.
 
-My passion for game development encouraged me to pursue my Masters in Entertainment technology at Carnegie Mellon University, Pittsburgh. Here I had the opportunity to learn a lot about prototyping in the **“Building Virtual Worlds”** class taught by Jesse Schell and MK Haley. Throughout the course I worked on a variety of platforms like the Kinect,Wii-mote, HMD, etc.
+My passion for game development encouraged me to pursue my Masters in Entertainment technology at Carnegie Mellon University, Pittsburgh. Here, I had the opportunity to learn a lot about prototyping in the **“Building Virtual Worlds”** class taught by Jesse Schell and MK Haley. Throughout the course, I worked on a variety of platforms like the Kinect,Wii-mote, HMD, etc.
 
 In my second semester, I worked on a project called **“Strike Fortress”** for Electronic Arts at Redwood Shores, CA. Strike fortress was a tower defense WebGL game written entirely in Javascript.
 
-My summer internship was at Game Closure. Here i worked on android games using the Game Closure SDK and Game Engine.
+My summer internship was at Game Closure. Here, I worked on android games using the Game Closure SDK and Game Engine.
 
 During the second year of my master’s course, I worked on two projects with Sony Computer Entertainment America. The first one was about 4 prototypes on Playstation Vita using the Playstation Mobile SDK. The second one was a co-op project at the Sony Foster City Campus.
 
